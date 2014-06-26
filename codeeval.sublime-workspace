@@ -35,10 +35,14 @@
 	},
 	"file_history":
 	[
+		"/Users/joe/devel/projects/codeeval/shortestRepetition/shortestRepetition.js",
+		"/Users/joe/.bash_profile",
+		"/Users/joe/devel/projects/codeeval/shortestRepetition/strings.txt",
+		"/Users/joe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/joe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/joe/devel/projects/dailyprogrammer/164-easy-ruby/divisible.rb",
 		"/Users/joe/devel/projects/groovykoans-master/build.gradle",
 		"/Users/joe/devel/projects/groovykoans-master/src/test/groovy/org/groovykoans/koan01/Koan01.groovy",
-		"/Users/joe/.bash_profile",
 		"/Users/joe/devel/projects/dailyprogrammer/164-easy-ruby/anagrams.rb",
 		"/Users/joe/devel/projects/dailyprogrammer/164-easy-ruby/hello.rb"
 	],
@@ -152,7 +156,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 271.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
